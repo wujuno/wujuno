@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,26,13&height=300&section=header&text=Welcome!!%20&fontSize=100)
 ## <div align="center">안녕하세요. 프론트앤드 개발자를 준비하는 이준호입니다.</div>
 👉[Development Blog](https://blog.naver.com/huj987)
-👉[My Plan(notion)](https://abaft-entree-74c.notion.site/Action-Projects-10ec2f8ebd6c459ba1b76658b2120b31)
+👉[My Plan(notion)](https://wujuno.notion.site/Action-Projects-10ec2f8ebd6c459ba1b76658b2120b31)
 ## <div align="center">🛠 Tech Stack 🛠</div>
 <div align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
