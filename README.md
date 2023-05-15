@@ -1,7 +1,6 @@
 
 ## 안녕하세요.주니어 프론트앤드 개발자 이준호입니다.
 👉[Development Blog](https://blog.naver.com/huj987)
-👉[My Plan(notion)](https://wujuno.notion.site/Action-Projects-10ec2f8ebd6c459ba1b76658b2120b31)
 ### 🛠 Tech Stack 🛠
 
 |Language|Web Front-End|
